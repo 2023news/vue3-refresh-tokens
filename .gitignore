@@ -26,3 +26,4 @@ dist-ssr
 
 .env
 express_jwt
+pnpm-lock.yaml
